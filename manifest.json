@@ -1,0 +1,22 @@
+{
+  "name": "Super Counter App",
+  "short_name": "Counter",
+  "description": "Multi-counter app with Zikr mode, sounds, limits, and offline support.",
+  "start_url": "super%20counter.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6a5af9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
